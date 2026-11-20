@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 * 💼 Software Developer at **PixZip Solution Private Limited**
-* 🌐 1+ Year experience in **Web Application Development**
+* 🌐 1.6+ Year experience in **Web Application Development**
 * ⚛️ Specialized in **React.js, Next.js, JavaScript, TypeScript**
 * 🔗 Experienced in **REST API integration and backend communication**
 * ⚙️ Working with **Node.js, Express, NestJS**
